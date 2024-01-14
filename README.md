@@ -18,19 +18,19 @@ This repository contains, team documents and meeting logs for the CS253 Group Pr
 ## Logs
 
 ### Meet 1
-Date --> 8 January 2024
-Start Time --> 9:30 pm
-End Time --> 11:30 pm
-Summary --> Brainstorming over ideas for the project
+- Date --> 8 January 2024
+- Start Time --> 9:30 pm
+- End Time --> 11:30 pm
+- Summary --> Brainstorming over ideas for the project
 
 ### Meet 2
-Date --> _ January 2024
-Start Time --> 
-End Time --> 
-Summary --> 
+- Date --> _ January 2024
+- Start Time --> 
+- End Time --> 
+- Summary --> 
 
 ### Meet 3
-Date --> _ January 2024
-Start Time --> 
-End Time --> 
-Summary --> 
+- Date --> _ January 2024
+- Start Time --> 
+- End Time --> 
+- Summary --> 
