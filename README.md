@@ -1,4 +1,4 @@
-# PROJECT : ELYSIAN
+# PROJECT : ELYSIUM
 Team Meeting Logs and MoM
 
 This repository contains, team documents and meeting logs for the CS253 Group Project, Winter 2023-24.
@@ -33,4 +33,16 @@ This repository contains, team documents and meeting logs for the CS253 Group Pr
 - Date --> _ January 2024
 - Start Time --> 
 - End Time --> 
-- Summary --> 
+- Summary -->
+
+### Meet 4
+- Date --> _ January 2024
+- Start Time --> 
+- End Time --> 
+- Summary -->
+
+### Meet 5
+- Date --> 19th January 2024
+- Start Time --> 11:10 PM
+- End Time --> 1:00 AM
+- Summary --> Work Division and Progress in UI Design.
