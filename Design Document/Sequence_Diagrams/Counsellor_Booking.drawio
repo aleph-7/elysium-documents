@@ -1,0 +1,141 @@
+<mxfile host="app.diagrams.net" modified="2024-02-07T18:32:10.979Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Safari/605.1.15" etag="zRhcW02jr_NWh_wzOzb3" version="23.1.1" type="device">
+  <diagram name="Page-1" id="61d4Ecp6K8iNIc3WCDyg">
+    <mxGraphModel dx="1207" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#D9F3F8" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fillColor=none;size=43;" parent="1" vertex="1">
+          <mxGeometry x="250.5" y="77" width="20" height="603" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#080606;strokeColor=#000000;" parent="Xs4oKsTvRgISsXQ9Vran-1" vertex="1">
+          <mxGeometry x="5" y="153" width="10" height="417" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-3" value="User&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Actor)&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="1" vertex="1">
+          <mxGeometry x="220.5" y="40" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-4" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0008" relative="1" as="geometry">
+            <mxPoint x="265.5" y="250" as="sourcePoint" />
+            <mxPoint x="505.5" y="250" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-5" value="book_appointment&lt;br&gt;(time, date, counsellor)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;labelBackgroundColor=#D9F3F8;" parent="Xs4oKsTvRgISsXQ9Vran-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.0366" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-6" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Poppins&quot; face=&quot;Poppins&quot;&gt;alt&lt;/font&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="470" width="470" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-7" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.999;entryY=0.518;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.001;exitY=0.519;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=12 12;" parent="1" source="Xs4oKsTvRgISsXQ9Vran-6" target="Xs4oKsTvRgISsXQ9Vran-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110.5" y="451.9100000000001" as="sourcePoint" />
+            <mxPoint x="570.5" y="450.0200000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-8" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Poppins&quot; face=&quot;Poppins&quot;&gt;Counsellor&lt;br&gt;DB&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+          <mxGeometry x="460.5" y="70" width="100" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#080606;strokeColor=#000000;" parent="Xs4oKsTvRgISsXQ9Vran-8" vertex="1">
+          <mxGeometry x="45" y="98.5" width="10" height="451.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-10" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510.0000000000001" y="510" as="sourcePoint" />
+            <mxPoint x="265.5" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-11" value="accepted_notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;labelBackgroundColor=#D9F3F8;" parent="Xs4oKsTvRgISsXQ9Vran-10" vertex="1" connectable="0">
+          <mxGeometry x="0.0342" y="-1" relative="1" as="geometry">
+            <mxPoint x="-3" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-12" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505.5" y="579.1700000000001" as="sourcePoint" />
+            <mxPoint x="265.5" y="579.1700000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-13" value="rejected_notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;labelBackgroundColor=#D9F3F8;" parent="Xs4oKsTvRgISsXQ9Vran-12" vertex="1" connectable="0">
+          <mxGeometry x="0.0342" y="-1" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-14" value="[Appointment Accepted]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="1" vertex="1">
+          <mxGeometry x="124" y="502" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-16" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;fillColor=none;size=43;" parent="1" vertex="1">
+          <mxGeometry x="720" y="77" width="20" height="603" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#080606;strokeColor=#000000;" parent="Xs4oKsTvRgISsXQ9Vran-16" vertex="1">
+          <mxGeometry x="5" y="73" width="10" height="287" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-18" value="ICS Counsellor&lt;br&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;(Actor)&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" parent="1" vertex="1">
+          <mxGeometry x="690" y="39" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-19" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0008" relative="1" as="geometry">
+            <mxPoint x="725" y="190.0000000000001" as="sourcePoint" />
+            <mxPoint x="515.5" y="190.0000000000001" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-20" value="post_time&lt;br&gt;(date, time)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;labelBackgroundColor=#D9F3F8;" parent="Xs4oKsTvRgISsXQ9Vran-19" vertex="1" connectable="0">
+          <mxGeometry x="-0.0366" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-21" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510.1666666666665" y="224" as="sourcePoint" />
+            <mxPoint x="725" y="224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-22" value="execution_sucessful" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;labelBackgroundColor=#D9F3F8;" parent="Xs4oKsTvRgISsXQ9Vran-21" vertex="1" connectable="0">
+          <mxGeometry x="0.0342" y="-1" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-25" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
+          <mxGeometry x="-0.0008" relative="1" as="geometry">
+            <mxPoint x="725" y="280.0000000000001" as="sourcePoint" />
+            <mxPoint x="515.5" y="280.0000000000001" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xs4oKsTvRgISsXQ9Vran-26" value="fetch_appointment&lt;br&gt;(counsellor)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;labelBackgroundColor=#D9F3F8;" parent="Xs4oKsTvRgISsXQ9Vran-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.0366" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDmW28W1GVKUQQIXl4mR-1" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515.4966666666666" y="330" as="sourcePoint" />
+            <mxPoint x="730.33" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDmW28W1GVKUQQIXl4mR-2" value="return data&lt;br&gt;(time, date, name)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;labelBackgroundColor=#D9F3F8;" vertex="1" connectable="0" parent="RDmW28W1GVKUQQIXl4mR-1">
+          <mxGeometry x="0.0342" y="-1" relative="1" as="geometry">
+            <mxPoint y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDmW28W1GVKUQQIXl4mR-3" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0008" relative="1" as="geometry">
+            <mxPoint x="725" y="370.0000000000001" as="sourcePoint" />
+            <mxPoint x="515.5" y="370.0000000000001" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDmW28W1GVKUQQIXl4mR-4" value="update_status" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;labelBackgroundColor=#D9F3F8;" vertex="1" connectable="0" parent="RDmW28W1GVKUQQIXl4mR-3">
+          <mxGeometry x="-0.0366" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDmW28W1GVKUQQIXl4mR-6" value="[Appointment Rejected]" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;fontFamily=Poppins;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPoppins;" vertex="1" parent="1">
+          <mxGeometry x="124" y="559" width="80" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
