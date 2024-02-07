@@ -5,7 +5,7 @@ This repository contains, team documents and meeting logs for the CS253 Group Pr
 
 ### The Team, :)
 1. Aditi Khandelia
-2. Akanksha Wattamar
+2. Akanksha Wattamwar
 3. Animesh Madaan
 4. Arush Upadhyaya
 5. G.V Aman
